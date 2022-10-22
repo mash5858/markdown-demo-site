@@ -74,7 +74,7 @@ Tesla obtained around ~~280~~ 300 patents worldwide for his inventions. Many inv
 - **Memorials**
   1. The Nikola Tesla Memorial Centre in Smiljan, Croatia, opened in 2006.
     
-![The Nikola Tesla Memorial Centre in Smiljan, Croatia](./assets/img/Muzej_Nikole_Tesle.jpg "The Nikola Tesla Memorial Centre in Smiljan, Croatia")
+![The Nikola Tesla Memorial Centre in Smiljan, Croat](./assets/img/Muzej_Nikole_Tesle.jpg "The Nikola Tesla Memorial Centre in Smiljan, Croatia")
 
 ## Credits
 * Content paraphrased from [Nikola Tesla Wikipedia page][Wikipedia page].  
